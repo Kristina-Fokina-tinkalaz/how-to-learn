@@ -1,0 +1,22 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+.khan__buy-link{
+    line-height: 42px;
+    font-size: 30px;
+    font-weight: normal;
+    vertical-align: top;
+    color: #2f80ed;
+    cursor: pointer;
+    text-decoration: none;
+}
+.khan__buy-link:hover{
+    -webkit-transition: opacity .5s ease-in;
+    -o-transition: opacity .5s ease-in;
+    transition: opacity .5s ease-in;
+    opacity:0.3;
+}

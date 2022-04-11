@@ -1,0 +1,17 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+.header__main-illustration {
+    width: 765px;
+    height: 608px;
+    position: absolute;
+    right: 0px;
+    bottom: 0px;
+    -o-object-fit: cover;
+       object-fit: cover;
+    z-index: 1;
+}

@@ -1,0 +1,7 @@
+.logo {
+    width: 183px;
+    height: 32px;
+    z-index: 1;
+    background-size: contain;
+    background-repeat: no-repeat;
+}

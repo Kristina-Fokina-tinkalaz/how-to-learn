@@ -1,0 +1,19 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+.cards{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    width: 920px;
+    margin: 0px auto 100px auto;
+    list-style-type: none;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    padding: 0;
+
+}

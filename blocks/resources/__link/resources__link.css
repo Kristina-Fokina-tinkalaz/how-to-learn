@@ -1,0 +1,19 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+.resources__link{
+    width:270px;
+    height: 38px;
+    cursor: pointer;
+    text-align: center;
+}
+.resources__link:hover{
+    -webkit-transition: opacity .5s ease-in;
+    -o-transition: opacity .5s ease-in;
+    transition: opacity .5s ease-in;
+    opacity:0.3;
+  }

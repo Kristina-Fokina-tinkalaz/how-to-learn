@@ -1,0 +1,20 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+
+
+.kaufman__triangle {
+    background-image: url("../../../images/kaufman-triangle.svg");
+    background-size: cover;
+    width: 877px;
+    height: 877px;
+    position: absolute;
+    right: -210px;
+    top: 0;
+    z-index: -1;
+    overflow: hidden;
+}

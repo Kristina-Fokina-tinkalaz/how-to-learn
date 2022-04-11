@@ -1,0 +1,20 @@
+/*
+* Prefixed by https://autoprefixer.github.io
+* PostCSS: v8.3.6,
+* Autoprefixer: v10.3.1
+* Browsers: last 4 version
+*/
+
+.footer__column-link {
+    font-weight: normal;
+    line-height: 30px;
+    font-size: 18px;
+    color: #fff;
+    text-decoration: none;
+}
+.footer__column-link:hover{
+    -webkit-transition: opacity .5s ease-in;
+    -o-transition: opacity .5s ease-in;
+    transition: opacity .5s ease-in;
+    opacity:0.3;
+  }
